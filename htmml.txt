@@ -1,0 +1,76 @@
+nikhil is a good boy 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Student Bio</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body class="dark-theme">
+    <header>
+      <h1>NIKHIL MISHRA</h1>
+      <nav>
+        <ul>
+          <li><a href="#image">images</a></li>
+          <li><a href="#about-me">About Me</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="Image">
+        <h2>Images</h2>
+        <p>
+            <div class="Image-container">
+                <img src="myphoto.jpg" alt="Image 1">
+                <img src="new image.jpg" alt="Image 2">
+                <img src="image2.jpg" alt="Image 1">
+              </div>
+              
+          
+        </p>
+      </section>
+      <section id="about-me">
+        <h2>About Me</h2>
+
+        <p>
+            Hi, I'm Nikhil Mishra, a motivated and enthusiastic student currently pursuing a Bachelor's degree in Artificial Intelligence and Machine Learning (AIML). With a passion for technology and programming, I possess a wide range of skills in various programming languages, including C, C++, Python, HTML, and CSS. Along with my technical skills, I am also proficient in video editing, allowing me to creatively express my ideas and projects. Recently, I won the third prize in Multicon 2023, a Python workshop organized by TCET, showcasing my talent and dedication. With a bright future ahead, I am determined to become a successful Artificial Intelligence Engineer and contribute to the industry in a meaningful way. 
+
+        </p>
+      </section>
+      <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+          <li>Video Editing</li>
+          <li>Python Programming</li>
+          <li>C Programming</li>
+          <li>C++ Programming</li>
+          <li>HTML/CSS</li>
+        </ul>
+      </section>
+      <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+          <li>
+            built a webpage for my personal use
+          </li>
+          <li>
+            made many edits on influencers
+          </li>
+
+          <li>Implemented a simple game using C++</li>
+        </ul>
+      </section>
+      <section id="contact">
+        <h2>Contact</h2>
+       <li>Email:<a href="mailto:mishranirajk121@gmail.com">mishranirajk121@gmail.com</a></li>
+   <li>Phone: 8625988572</li>
+        <li>LinkedIn:<a href="https://www.linkedin.com/in/nikhil-mishra-931874196/">https://www.linkedin.com/in/nikhil-mishra-931874196/</a></li>
+      </section>
+    </main>
+  </body>
+</html>
